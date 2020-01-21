@@ -1,0 +1,1 @@
+make -j2 -C tools/depends/target/binary-addons ADDONS="inputstream.* audiodecoder.* audioencoder.* imagedecoder.* vfs.*"
